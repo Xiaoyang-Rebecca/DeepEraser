@@ -1,13 +1,11 @@
 # DeepEraser
-![alt text](https://github.com/Xiaoyang-Rebecca/DeepEraser/blob/master/demos/flowchart.JPG)
-
+The pipeline combined[Mask RCNN](https://github.com/matterport/Mask_RCNN) and [Generative Inpainting Netork](https://github.com/JiahuiYu/generative_inpainting)
 
 Input Video
-
 <img src="https://github.com/Xiaoyang-Rebecca/DeepEraser/blob/master/demos/clip1.gif" width="40%">.
 
+Output Video  (Bordered, Erased)
 
-Output Video Track
 <img src="https://github.com/Xiaoyang-Rebecca/DeepEraser/blob/master/demos/clip1_borded.gif" width="40%">.
 <img src="https://github.com/Xiaoyang-Rebecca/DeepEraser/blob/master/demos/clip1_erased.gif" width="40%">.
 
