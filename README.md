@@ -1,5 +1,5 @@
 # DeepEraser
-The pipeline combined[Mask RCNN](https://github.com/matterport/Mask_RCNN) and [Generative Inpainting Netork](https://github.com/JiahuiYu/generative_inpainting)
+An object-oriented "eraser" for image and video. Is able to remove the pixels with designated type.
 
 Input Video
 
@@ -21,6 +21,9 @@ python deep_eraser.py \
 -t 'sports ball' \
 --video examples/astros/clip1.mp4 \
 -o examples/astros/clip1_out_sports_ball
+
+
+The pipeline is inspired from  [Mask RCNN](https://github.com/matterport/Mask_RCNN) and [Generative Inpainting Netork](https://github.com/JiahuiYu/generative_inpainting)
 
 
 
