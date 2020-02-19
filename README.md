@@ -1,8 +1,12 @@
 # DeepEraser
 ![alt text](https://github.com/Xiaoyang-Rebecca/DeepEraser/blob/master/demos/flowchart.JPG)
 
-https://github.com/Xiaoyang-Rebecca/DeepEraser/blob/master/demos/video/clip1_borded.avi
+![alt text](https://github.com/Xiaoyang-Rebecca/DeepEraser/blob/master/demos/flowchart.JPG)
 
+<img src="https://github.com/Xiaoyang-Rebecca/DeepEraser/blob/master/demos/clip1.gif" width="40%">.
+
+<img src="https://github.com/Xiaoyang-Rebecca/DeepEraser/blob/master/demos/clip1_borded.gif" width="40%">.
+<img src="https://github.com/Xiaoyang-Rebecca/DeepEraser/blob/master/demos/clip1_borded.gif" width="40%">.
 
 # Option1
 python deep_eraser.py \
