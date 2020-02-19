@@ -1,4 +1,5 @@
 # DeepEraser
+![alt text](https://github.com/Xiaoyang-Rebecca/DeepEraser/blob/master/demos/flowchart.JPG)
 
 # Option1
 python deep_eraser.py \
