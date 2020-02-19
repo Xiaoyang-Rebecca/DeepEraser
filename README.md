@@ -1,12 +1,16 @@
 # DeepEraser
 ![alt text](https://github.com/Xiaoyang-Rebecca/DeepEraser/blob/master/demos/flowchart.JPG)
 
-![alt text](https://github.com/Xiaoyang-Rebecca/DeepEraser/blob/master/demos/flowchart.JPG)
 
+Input Video
 <img src="https://github.com/Xiaoyang-Rebecca/DeepEraser/blob/master/demos/clip1.gif" width="40%">.
 
+
+Output Video Track
+Detected
 <img src="https://github.com/Xiaoyang-Rebecca/DeepEraser/blob/master/demos/clip1_borded.gif" width="40%">.
-<img src="https://github.com/Xiaoyang-Rebecca/DeepEraser/blob/master/demos/clip1_borded.gif" width="40%">.
+Erased
+<img src="https://github.com/Xiaoyang-Rebecca/DeepEraser/blob/master/demos/clip1_erased.gif" width="40%">.
 
 # Option1
 python deep_eraser.py \
