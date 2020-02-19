@@ -1,6 +1,9 @@
 # DeepEraser
 ![alt text](https://github.com/Xiaoyang-Rebecca/DeepEraser/blob/master/demos/flowchart.JPG)
 
+https://github.com/Xiaoyang-Rebecca/DeepEraser/blob/master/demos/video/clip1_borded.avi
+
+
 # Option1
 python deep_eraser.py \
 -t 'sports ball' \
