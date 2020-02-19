@@ -1,5 +1,7 @@
 # DeepEraser
 An object-oriented "eraser" for image and video. Is able to remove the pixels with designated type.
+<img src="https://github.com/Xiaoyang-Rebecca/DeepEraser/blob/master/demos/flowchart.JPG" width="70%">.
+
 
 Input Video
 
